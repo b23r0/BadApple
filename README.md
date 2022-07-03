@@ -18,13 +18,13 @@ Convert video to character drawing using OpenCV
 
 https://github.com/b23r0/BadApple/blob/main/step1/video2char.py
 
-# Step2
+## Step2
 
 Compress character picture files, greatly reduce file size
 
 https://github.com/b23r0/BadApple/blob/main/step2/compress.py
 
-# Step3
+## Step3
 
 Use Rust egui to draw each frame of animation.
 
