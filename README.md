@@ -8,7 +8,6 @@ BadaApple character animation with GUI (Rust)
 
 * GUI
 * Sync Music
-* File size only 11M
 * Linux/Windows/Mac/BSD support
 
 # Implementation
