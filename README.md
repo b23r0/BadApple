@@ -1,6 +1,6 @@
 # BadApple
 
-BadaApple character animation with GUI (Rust)
+BadApple character animation with GUI (Rust)
 
 ![image]( https://github.com/b23r0/BadApple/blob/main/image/badapple.gif)
 
